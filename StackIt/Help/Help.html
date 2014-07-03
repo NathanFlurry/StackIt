@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
+	<title>Help</title>
+<!--Adobe Edge Runtime-->
+    <script type="text/javascript" charset="utf-8" src="Help_edgePreload.js"></script>
+    <style>
+        .edgeLoad-EDGE-425614215 { visibility:hidden; }
+    </style>
+<!--Adobe Edge Runtime End-->
+
+</head>
+<body style="margin:0;padding:0;">
+	<div id="Stage" class="EDGE-425614215">
+	</div>
+    <style>
+		#Stage {
+		    /*width: 700px;
+		    height: 700px;*/
+		    left: 50%;
+		    top: 50%;
+		    position: absolute;
+		    margin-left: -350px;
+		    margin-top: -350px;
+		}
+    </style>
+    <script>
+        var el = document.getElementById("Stage");
+        var scaleAmnt = document.body.clientWidth/700;
+        el.style["-webkit-transform"] = "scale("+scaleAmnt+","+scaleAmnt+")";
+    </script>
+</body>
+</html>

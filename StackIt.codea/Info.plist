@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Author</key>
+	<string>Nathan Flurry</string>
+	<key>Buffer Order</key>
+	<array>
+		<string>Main</string>
+		<string>Background</string>
+		<string>Start</string>
+		<string>Settings</string>
+		<string>Stats</string>
+		<string>Store</string>
+		<string>SeenObj</string>
+		<string>About</string>
+		<string>HowToPlay</string>
+		<string>Game</string>
+		<string>Paddle</string>
+		<string>ObjectManager</string>
+		<string>ObjectFunctions</string>
+		<string>ObjectPresets</string>
+		<string>PUpManager</string>
+		<string>ObjectStyles</string>
+		<string>RisingText</string>
+		<string>FadingImage</string>
+		<string>Notification</string>
+		<string>ShareWidget</string>
+		<string>HTMLNewsView</string>
+		<string>touches</string>
+		<string>Timer</string>
+		<string>Emitter</string>
+		<string>GStroke</string>
+		<string>Functions</string>
+		<string>ScrollView</string>
+		<string>HTMLEntities</string>
+		<string>Shaders</string>
+		<string>weatherlib</string>
+		<string>JSON</string>
+		<string>date</string>
+	</array>
+	<key>Comments</key>
+	<string></string>
+	<key>Created</key>
+	<string>2013-03-31 16:49:04 +0000</string>
+	<key>Date</key>
+	<string>April 28, 2013</string>
+	<key>Dependencies</key>
+	<array/>
+	<key>Description</key>
+	<string>Balance objects on a paddle for as long as possible.</string>
+	<key>Version</key>
+	<string>v1</string>
+</dict>
+</plist>

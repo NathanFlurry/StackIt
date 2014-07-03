@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="12px" height="20px" viewBox="0 0 12 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <title>Drop</title>
+    <description>Created with Sketch (http://www.bohemiancoding.com/sketch)</description>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Layer-1" sketch:type="MSLayerGroup" fill="#00AAFF">
+            <path d="M5.869,0 C5.869,0 7.195,3.57902439 8.919,6.7697561 C10.6425,9.96097561 11.858,10.1980488 11.88,12.6560976 C11.9025,15.1136585 9.9575,19.4907317 6.245,19.5121951 C2.532,19.5336585 0.2115,16.924878 0.1235,13.54 C0.035,10.155122 1.56,9.78829268 3.0405,6.83463415 C4.521,3.88097561 5.869,0 5.869,0 L5.869,0 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <title>Null Gravity</title>
+    <description>Created with Sketch (http://www.bohemiancoding.com/sketch)</description>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <path d="M10,0 C10.2542857,0 10.4761905,0.983809524 10.6666667,2.95238095 L11,9 L17.047619,9.28571429 C19.0161905,9.47619048 20,9.71428571 20,10 C20,10.2857143 19.0161905,10.5238095 17.047619,10.7142857 L11,11 L10.6666667,17.0952381 C10.4761905,19.0314286 10.2542857,20 10,20 C9.71428571,20 9.47619048,19.0314286 9.28571429,17.0952381 C9.0952381,15.3809524 9,13.3495238 9,11 L2.9047619,10.7142857 C0.968571429,10.5238095 0,10.2857143 0,10 C0,9.71428571 0.968571429,9.47619048 2.9047619,9.28571429 L9,9 C9,6.68285714 9.0952381,4.66666667 9.28571429,2.95238095 C9.47619048,0.983809524 9.71428571,0 10,0" id="Null-gravity" fill="#32A0FF" sketch:type="MSShapeGroup"></path>
+    </g>
+</svg>
